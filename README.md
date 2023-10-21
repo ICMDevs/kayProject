@@ -1,4 +1,4 @@
-# "HTML Project for Beginners"
+# KAY's 1st HTML Project - ICM Devs
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
